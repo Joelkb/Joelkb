@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile;A+Noob+Programmer;Learning+Python+and+Pyrogram;Join+@filmy_harbour+for+Movies...;TeleGram+Bot+Maker;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Joelkb/&title=Profile%20Views)
 
