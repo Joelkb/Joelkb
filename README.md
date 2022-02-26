@@ -1,7 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile)](https://git.io/typing-svg)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Joelkb/&title=Profile%20Views)
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel's+Profile)](https://git.io/typing-svg)
 
 * 📚 Student and Learning Python 
 
