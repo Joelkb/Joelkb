@@ -4,6 +4,10 @@
 
 * 📚 Student and Learning Python 
 
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
+
+<img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
+
 <p align="center">
 😎 𝐌𝐘 𝐒𝐎𝐂𝐈𝐀𝐋 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒 😎
 </p>
