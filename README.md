@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelkb&label=Profile%20views&color=129e00&style=plastic" alt="Joelkb" /> </p>
 
-* 📚 Student and Learning Python 
+<b>• 👨‍💻 Languages: Python, HTML, CSS, JavaScript
+• 📚 Student and still learning.</b>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
 
