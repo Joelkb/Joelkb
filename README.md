@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile;A+Noob+Programmer;👨‍💻+Languages:;Python;HTML;CSS;JavaScript;Join+@filmy_harbour+for+Movies...;TeleGram+Bot+Maker;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+Joel-kb's+Profile;A+Noob+Programmer;👨‍💻+Languages:+Python;👨‍💻+Languages:+HTML;👨‍💻+Languages:+CSS;👨‍💻+Languages:+JavaScript;Join+@filmy_harbour+for+Movies...;TeleGram+Bot+Maker;Please+Star+and+Fork+My+Repos)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelkb&label=Profile%20views&color=129e00&style=plastic" alt="Joelkb" /> </p>
 
