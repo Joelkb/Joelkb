@@ -30,18 +30,19 @@
 ---
 
 # ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
-<p align="center">
+<p align="left">
 <a href="https://telegram.me/creatorbeatz"><img alt="Telegram" src="https://img.shields.io/badge/Joelkb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://telegram.me/free_movies_all_languages">
     &nbsp;<img src="https://img.shields.io/badge/Free Movies-Group-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
   </a>
 </p>
 
+
 </div>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="center" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<p align="center">
+<p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
 </p>
 
