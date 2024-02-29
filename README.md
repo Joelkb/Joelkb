@@ -38,7 +38,9 @@
 </p>
 </div>
 
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<div align="center">
+    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+</div>
 
 <p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
