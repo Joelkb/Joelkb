@@ -40,7 +40,7 @@
 
 </div>
 
-<img align="center" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
